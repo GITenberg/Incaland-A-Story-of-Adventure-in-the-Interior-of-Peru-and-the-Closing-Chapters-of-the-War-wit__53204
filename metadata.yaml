@@ -1,10 +1,13 @@
 _repo: Incaland-A-Story-of-Adventure-in-the-Interior-of-Peru-and-the-Closing-Chapters-of-the-War-wit__53204
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Burgess, H.
     gutenberg_agent_id: '49347'
     url: http://www.gutenberg.org/2009/agents/49347
+covers:
+- cover_type: archival
+  image_path: 53204-h/images/cover.jpg
 creator:
   author:
     agent_name: Wetmore, Claude H.
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '47269'
     url: http://www.gutenberg.org/2009/agents/47269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53204#Incaland-A-Story-of-Adventure-in-the-Interior-of-Peru-and-the-Closing-Chapters-of-the-War-wit_
 gutenberg_issued: '2016-10-04'
 gutenberg_type: Text
 identifiers:
